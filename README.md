@@ -1,13 +1,13 @@
 # Covid_LSTM_Predictions
 
 ## Introduccion ## 
-    LSTM networks as known as good fit for timeseries, specially in those case where sudden changes can be expected. 
+    LSTM networks are known as good fit for timeseries, specially in those case where sudden changes can be expected. 
     Therefore this can represent a promigsing tool to make predictions over the covid_19 fast changing timeseries. 
     In this case the next day is predicted and shown in a temporary deployed website generated with dash. 
     The prediction is done for a country choosen by the user. 
     The prediction represent the cumulative sum of covid cases. 
     The number of days for the cumulative sum is chossen by the user. 
-    The cumulative sum is used to avoid noise of the original data. 
+    The cumulative sum is used for predictions to avoid noise of the original data. 
     
 ## Scripts contained ##
 ### settings ###
