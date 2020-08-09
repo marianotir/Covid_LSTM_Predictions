@@ -32,6 +32,11 @@
      Create a Covid folder under use directory. 
      Save the scripts under the Covid folder. 
      Create a Data folder under the Covid directoy. 
+     
+## Run ## 
+     Run the Prod_WebApp.py as it will call the other scripts. 
+     The run will prompt some plots with predictions. Close them to continue with the web deployment. 
+     The server will run over http://127.0.0.1:8050/
    
    
 
