@@ -27,6 +27,11 @@
 ### Prod_WebApp ###
      Load_Data and Pred_LSTM scripts run at the begining of the script.
      Data is tunned and represented into a temporary website. 
+     
+## Folder configuration ##
+     Create a Covid folder under use directory. 
+     Save the scripts under the Covid folder. 
+     Create a Data folder under the Covid directoy. 
    
    
 
